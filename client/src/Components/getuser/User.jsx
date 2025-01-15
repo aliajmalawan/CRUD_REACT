@@ -72,6 +72,19 @@ const User = () => {
             })}
           </tbody>
         </table>
+        <footer
+          style={{
+            textAlign: "right",
+            fontStyle: "italic",
+            paddingTop: "8px",
+            fontFamily: "Times New Roman",
+          }}
+        >
+          CRUD-APP Developed by{" "}
+          <b style={{ color: "darkblue", fontFamily: "Times New Roman" }}>
+            <u>ALI AJMAL AWAN</u>
+          </b>
+        </footer>
       </div>
     </>
   );

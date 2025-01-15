@@ -1,5 +1,5 @@
 {
-  "name": "crud-app",
+  "name": "crud-react",
   "version": "1.0.0",
   "scripts": {
     "start": "concurrently \"npm run server\" \"npm run client\"",
